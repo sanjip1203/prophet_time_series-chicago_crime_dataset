@@ -3,3 +3,4 @@ prophet
 matplotlib
 joblib
 pandas
+prophet --no-cache-dir
